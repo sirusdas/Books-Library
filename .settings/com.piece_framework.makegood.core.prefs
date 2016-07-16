@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+phpunit_config_file=
+preload_script=/MyBooksLibrary/autoload.php
+test_file_pattern=
+test_folders=/MyBooksLibrary/Tests
+testing_framework=PHPUnit

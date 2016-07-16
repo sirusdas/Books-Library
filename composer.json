@@ -1,0 +1,21 @@
+{
+	"name": "vendor/book-library",
+	"description": "Description of project BooksLibrary.",
+	"authors": [
+		{
+			"name": "Sirus",
+			"email": "your@email.here"
+		}
+	],
+	"require": {
+		"phpunit/php-invoker": "1.1.3",
+		"phpunit/dbunit": "1.2.3",
+		"phpunit/phpunit-selenium": "1.3.2",
+		"mockery/mockery": "0.8.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "3.7.*",
+		"phpunit/phpunit-story": "*",
+		"mockery/mockery" : "*"
+	}
+}
